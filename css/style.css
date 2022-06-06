@@ -1,0 +1,110 @@
+.wrapper
+{
+   margin-top: 130px;
+    position: relative;
+    left: 44px;
+}
+
+.navbar
+{
+    width: 65px;
+    height: 546px;
+    background-color: #dadada;
+    border: 2px solid #c0c0c0;
+}
+#bar
+
+{
+    background-color: #bb6ee0;
+    width: 65px;
+    height: 65px;
+
+}
+#bar span i
+{
+    font-size: 30px;
+    color: #ffffff;
+    padding: 18px;
+}
+#user
+{
+  font-size: 30px;
+    color: #bb6ee0;
+
+}
+
+.not 
+{
+    font-size: 30px;
+    color: #b0b0b0;
+    padding-top: 10px;
+  
+}
+.other
+{
+margin-left: 14px;
+    margin-top: 80px;
+}
+.other img
+{
+    padding-top: 10px;
+}
+.colud img
+{
+    padding-top: 100px;
+    padding-left: 14px;
+}
+.center-img img
+{
+   position: relative;
+    bottom: 570px;
+    left: 63px;
+    width: 25%;
+}
+.content
+{
+    width: 60%;
+    background-color: #ffffff;
+    padding: 50px;
+    position: relative;
+    bottom: 1123px;
+    left: 447px;
+}
+.content p
+{
+    font-size: 20px;
+    color: #908896;
+    
+}
+.content h3
+{
+    font-size: 35px;
+    color:#1f1f1f;
+    
+}
+.text h3
+{
+    font-size: 30px;
+    font-family: sans-serif;
+        padding-top: 10px;
+}
+.text span i
+{
+    font-size: 35px;
+    color: #ca84f1;
+}
+.text
+{
+      padding: 10px;
+}
+.text-2 span i
+{
+    font-size: 35px;
+    color: #ca84f1; 
+}
+.text-2 h3
+{
+     font-size: 30px;
+    font-family: sans-serif;
+        padding-top: 10px;
+}
